@@ -158,12 +158,18 @@ Intent(Intent.ACTION_VIEW).apply {
 - Add video trimming
 - Add settings screen for bitrate/resolution
 
+
+https://github.com/user-attachments/assets/daa83141-dbbc-4689-a354-63a4db9f1565
+
+
 ---
 
 ## 📄 **License**
 MIT — free to use & modify.
 
 ---
+
+
 
 ## 🧑‍💻 **Author**
 Built by **Bhaumik** (2025)
