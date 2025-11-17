@@ -13,11 +13,7 @@ A simple & clean **CameraX Video Recording App** built with:
 ---
 
 ## 🎥 **Demo Video**
-
-> The recorded demo video is included in this repository.  
-If you upload it to GitHub, place it in `/assets` and update the link below.
-
-➡️ **Demo:** `assets/Screen_recording_20251117_001802.mp4`
+https://github.com/user-attachments/assets/daa83141-dbbc-4689-a354-63a4db9f1565
 
 ---
 
@@ -158,8 +154,6 @@ Intent(Intent.ACTION_VIEW).apply {
 - Add video trimming
 - Add settings screen for bitrate/resolution
 
-
-https://github.com/user-attachments/assets/daa83141-dbbc-4689-a354-63a4db9f1565
 
 
 ---
